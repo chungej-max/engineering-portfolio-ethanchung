@@ -1,5 +1,4 @@
 # engineering-portfolio-ethanchung
-Engineering Project Portfolio - Ethan Chung
 
 Mechanical Engineering student at Washington University in St. Louis with interests in mechanical design, biomedical engineering, and engineering analysis.
 
